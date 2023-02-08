@@ -78,6 +78,9 @@ fs.writeFile(outputFile, inputString, (error) => {
     console.log(`The file was saved to ${outputFile}`);
   }
 });
+
+//ignore the below code
+
 // function objToCSV(obj) {
 //     const headers = new Set();
 //     const rows = [];
